@@ -1,7 +1,7 @@
 ''' 更新 data 目录下的 json 文件
 '''
 from .exchange_calendar import ExchangeCalendar
-from python_api import json_helper
+from . import json_helper
 
 
 def update_cn_json():
