@@ -16,6 +16,8 @@ class TestApi(unittest.TestCase):
         print(query_result)
         query_result = exchange_calendar.is_open('cn', '20210922', use_cn_mirror_site=True)
         print(query_result)
+        query_result = exchange_calendar.is_open('cn', use_cn_mirror_site=True)
+        print(query_result)
 
 
 if __name__ == '__main__':

@@ -77,7 +77,12 @@ def fetch_url(url):
 calendar_dict = {}
 
 
-def is_open(market_type, date, *, use_cn_mirror_site=False):
+def is_open(market_type, date=None, *, use_cn_mirror_site=False):
+    # 参数
+    assert(market_type in ('cn', ))
+    if date is None:
+        date = time_helper.get_today_date_text()
+
     calendar = calendar_dict.get(market_type, None)
     if calendar is None:
         calendar = ExchangeCalendar(market_type, use_cn_mirror_site=use_cn_mirror_site)
