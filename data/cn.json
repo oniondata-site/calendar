@@ -1,0 +1,3597 @@
+[
+ {
+  "date": "20200102",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200103",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200104",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200105",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200106",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200107",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200108",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200109",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200110",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200111",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200112",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200113",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200114",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200115",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200116",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200117",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200118",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200119",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200120",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200121",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200122",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200123",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200124",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200125",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200126",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200127",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200128",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200129",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200130",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200131",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200201",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200202",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200203",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200204",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200205",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200206",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200207",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200208",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200209",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200210",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200211",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200212",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200213",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200214",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200215",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200216",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200217",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200218",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200219",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200220",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200221",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200222",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200223",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200224",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200225",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200226",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200227",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200228",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200229",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200301",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200302",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200303",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200304",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200305",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200306",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200307",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200308",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200309",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200310",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200311",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200312",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200313",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200314",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200315",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200316",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200317",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200318",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200319",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200320",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200321",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200322",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200323",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200324",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200325",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200326",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200327",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200328",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200329",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200330",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200331",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200401",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200402",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200403",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200404",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200405",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200406",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200407",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200408",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200409",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200410",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200411",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200412",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200413",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200414",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200415",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200416",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200417",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200418",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200419",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200420",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200421",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200422",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200423",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200424",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200425",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200426",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200427",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200428",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200429",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200430",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200501",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200502",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200503",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200504",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200505",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200506",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200507",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200508",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200509",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200510",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200511",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200512",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200513",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200514",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200515",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200516",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200517",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200518",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200519",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200520",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200521",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200522",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200523",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200524",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200525",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200526",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200527",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200528",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200529",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200530",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200531",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200601",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200602",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200603",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200604",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200605",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200606",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200607",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200608",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200609",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200610",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200611",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200612",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200613",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200614",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200615",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200616",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200617",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200618",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200619",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200620",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200621",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200622",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200623",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200624",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200625",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200626",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200627",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200628",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200629",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200630",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200701",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200702",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200703",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200704",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200705",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200706",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200707",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200708",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200709",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200710",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200711",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200712",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200713",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200714",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200715",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200716",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200717",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200718",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200719",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200720",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200721",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200722",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200723",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200724",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200725",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200726",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200727",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200728",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200729",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200730",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200731",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200801",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200802",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200803",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200804",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200805",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200806",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200807",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200808",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200809",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200810",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200811",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200812",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200813",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200814",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200815",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200816",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200817",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200818",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200819",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200820",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200821",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200822",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200823",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200824",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200825",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200826",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200827",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200828",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200829",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200830",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200831",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200901",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200902",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200903",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200904",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200905",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200906",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200907",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200908",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200909",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200910",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200911",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200912",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200913",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200914",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200915",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200916",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200917",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200918",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200919",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200920",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200921",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200922",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200923",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200924",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200925",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200926",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200927",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20200928",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200929",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20200930",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201001",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20201002",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20201003",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20201004",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20201005",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20201006",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20201007",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20201008",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20201009",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201010",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20201011",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20201012",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201013",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201014",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201015",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201016",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201017",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20201018",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20201019",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201020",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201021",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201022",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201023",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201024",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20201025",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20201026",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201027",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201028",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201029",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201030",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201031",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20201101",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20201102",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201103",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201104",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201105",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201106",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201107",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20201108",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20201109",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201110",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201111",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201112",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201113",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201114",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20201115",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20201116",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201117",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201118",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201119",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201120",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201121",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20201122",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20201123",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201124",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201125",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201126",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201127",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201128",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20201129",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20201130",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201201",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201202",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201203",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201204",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201205",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20201206",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20201207",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201208",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201209",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201210",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201211",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201212",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20201213",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20201214",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201215",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201216",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201217",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201218",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201219",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20201220",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20201221",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201222",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201223",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201224",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201225",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201226",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20201227",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20201228",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201229",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201230",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20201231",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210101",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210102",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210103",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210104",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210105",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210106",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210107",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210108",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210109",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210110",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210111",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210112",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210113",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210114",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210115",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210116",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210117",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210118",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210119",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210120",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210121",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210122",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210123",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210124",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210125",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210126",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210127",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210128",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210129",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210130",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210131",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210201",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210202",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210203",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210204",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210205",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210206",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210207",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210208",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210209",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210210",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210211",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210212",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210213",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210214",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210215",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210216",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210217",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210218",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210219",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210220",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210221",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210222",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210223",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210224",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210225",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210226",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210227",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210228",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210301",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210302",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210303",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210304",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210305",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210306",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210307",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210308",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210309",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210310",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210311",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210312",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210313",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210314",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210315",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210316",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210317",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210318",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210319",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210320",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210321",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210322",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210323",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210324",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210325",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210326",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210327",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210328",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210329",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210330",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210331",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210401",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210402",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210403",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210404",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210405",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210406",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210407",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210408",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210409",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210410",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210411",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210412",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210413",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210414",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210415",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210416",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210417",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210418",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210419",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210420",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210421",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210422",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210423",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210424",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210425",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210426",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210427",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210428",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210429",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210430",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210501",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210502",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210503",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210504",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210505",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210506",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210507",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210508",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210509",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210510",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210511",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210512",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210513",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210514",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210515",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210516",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210517",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210518",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210519",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210520",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210521",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210522",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210523",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210524",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210525",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210526",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210527",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210528",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210529",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210530",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210531",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210601",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210602",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210603",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210604",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210605",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210606",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210607",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210608",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210609",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210610",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210611",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210612",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210613",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210614",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210615",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210616",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210617",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210618",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210619",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210620",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210621",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210622",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210623",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210624",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210625",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210626",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210627",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210628",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210629",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210630",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210701",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210702",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210703",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210704",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210705",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210706",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210707",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210708",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210709",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210710",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210711",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210712",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210713",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210714",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210715",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210716",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210717",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210718",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210719",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210720",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210721",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210722",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210723",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210724",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210725",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210726",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210727",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210728",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210729",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210730",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210731",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210801",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210802",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210803",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210804",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210805",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210806",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210807",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210808",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210809",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210810",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210811",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210812",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210813",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210814",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210815",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210816",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210817",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210818",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210819",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210820",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210821",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210822",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210823",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210824",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210825",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210826",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210827",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210828",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210829",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210830",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210831",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210901",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210902",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210903",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210904",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210905",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210906",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210907",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210908",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210909",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210910",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210911",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210912",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210913",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210914",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210915",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210916",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210917",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210918",
+  "is_open": 0,
+  "comment": "\u4e2d\u79cb\u8282"
+ },
+ {
+  "date": "20210919",
+  "is_open": 0,
+  "comment": "\u4e2d\u79cb\u8282"
+ },
+ {
+  "date": "20210920",
+  "is_open": 0,
+  "comment": "\u4e2d\u79cb\u8282"
+ },
+ {
+  "date": "20210921",
+  "is_open": 0,
+  "comment": "\u4e2d\u79cb\u8282"
+ },
+ {
+  "date": "20210922",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210923",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210924",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210925",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210926",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20210927",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210928",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210929",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20210930",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211001",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20211002",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20211003",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20211004",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20211005",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20211006",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20211007",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20211008",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211009",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20211010",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20211011",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211012",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211013",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211014",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211015",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211016",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20211017",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20211018",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211019",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211020",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211021",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211022",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211023",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20211024",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20211025",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211026",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211027",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211028",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211029",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211030",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20211031",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20211101",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211102",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211103",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211104",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211105",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211106",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20211107",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20211108",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211109",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211110",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211111",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211112",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211113",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20211114",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20211115",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211116",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211117",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211118",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211119",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211120",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20211121",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20211122",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211123",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211124",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211125",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211126",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211127",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20211128",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20211129",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211130",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211201",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211202",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211203",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211204",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20211205",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20211206",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211207",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211208",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211209",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211210",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211211",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20211212",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20211213",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211214",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211215",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211216",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211217",
+  "is_open": 1,
+  "comment": ""
+ },
+ {
+  "date": "20211218",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20211219",
+  "is_open": 0,
+  "comment": ""
+ },
+ {
+  "date": "20211220",
+  "is_open": 1,
+  "comment": ""
+ }
+]
