@@ -10,7 +10,6 @@ def run():
     updater.update_cn_json()
     print('== push github ==')
     exit_code = os.system('git commit -am "Sync by robot"')
-    assert(exit_code == 0)
     exit_code = os.system('git push origin')
     assert(exit_code == 0)
     print('== push gitee ==')
