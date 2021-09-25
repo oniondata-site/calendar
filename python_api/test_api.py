@@ -20,7 +20,7 @@ class TestApi(unittest.TestCase):
         print(query_result)
 
     def test_is_open(self):
-        opened = exchange_calendar.is_open('cn', '20210921', use_cn_mirror_site=True)
+        opened = exchange_calendar.is_open('cn', '20200101', use_cn_mirror_site=True)
         print(opened)
         opened = exchange_calendar.is_open('cn', use_cn_mirror_site=True)
         print(opened)

@@ -23,6 +23,6 @@ def save_to_file(obj, config_path):
 
 def load_from_file(obj, config_path):
     if os.path.exists(config_path):
-        with open(config_path) as f:
+        with open(config_path, encoding='utf8') as f:
             config_dict = json.load(f)
             dict_to_object(config_dict, obj)
