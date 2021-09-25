@@ -11,13 +11,19 @@ class TestApi(unittest.TestCase):
     def tearDown(self):
         return
 
-    def test(self):
-        query_result = exchange_calendar.is_open('cn', '20210921', use_cn_mirror_site=True)
+    def test_query(self):
+        query_result = exchange_calendar.query_date_status('cn', '20210921', use_cn_mirror_site=True)
         print(query_result)
-        query_result = exchange_calendar.is_open('cn', '20210922', use_cn_mirror_site=True)
+        query_result = exchange_calendar.query_date_status('cn', '20210922', use_cn_mirror_site=True)
         print(query_result)
-        query_result = exchange_calendar.is_open('cn', use_cn_mirror_site=True)
+        query_result = exchange_calendar.query_date_status('cn', use_cn_mirror_site=True)
         print(query_result)
+
+    def test_is_open(self):
+        opened = exchange_calendar.is_open('cn', '20210921', use_cn_mirror_site=True)
+        print(opened)
+        opened = exchange_calendar.is_open('cn', use_cn_mirror_site=True)
+        print(opened)
 
 
 if __name__ == '__main__':

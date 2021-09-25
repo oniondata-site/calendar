@@ -44,7 +44,7 @@ class ExchangeCalendar(Cookie):
         next_load_time = time_helper.filter_next_time(hms_list)
         self.set_end_time(next_load_time)
 
-    def is_trade_date(self, date):
+    def query_date_status(self, date):
         if len(self.date_to_record) == 0:
             return CalendarQueryResult.FatalError
 
@@ -77,7 +77,18 @@ def fetch_url(url):
 calendar_dict = {}
 
 
-def is_open(market_type, date=None, *, use_cn_mirror_site=False):
+def query_date_status(market_type, date=None, *, use_cn_mirror_site=False):
+    '''
+    查询某日的日历
+
+    Parameters:
+        market_type - 市场类型，字符串。可选，'cn', 'hk', 'us'
+        date - 日期，字符串。比如，'20200101'
+        use_cn_mirror_site - 是否使用位于中国的镜像网站加速。强烈推荐国内网络勾选此项
+
+    Returns:
+        状态，CalendarQueryResult，枚举。注意，可能包含代表异常的枚举。
+    '''
     # 参数
     assert(market_type in ('cn', ))
     if date is None:
@@ -90,4 +101,21 @@ def is_open(market_type, date=None, *, use_cn_mirror_site=False):
     # 刷新缓存
     calendar.get_value()
 
-    return calendar.is_trade_date(date)
+    return calendar.query_date_status(date)
+
+
+def is_open(market_type, date=None, *, use_cn_mirror_site=False):
+    '''
+    对 query_date_status 方法的封装，自动处理异常情况。
+
+    Parameters:
+        同 query_date_status 方法
+
+    Returns:
+        是否为交易日，布尔类型。
+    '''
+    query_result = query_date_status(market_type, date, use_cn_mirror_site=use_cn_mirror_site)
+    if query_result > CalendarQueryResult.Opened:
+        raise Exception('calendar query error')
+
+    return query_result == CalendarQueryResult.Opened
