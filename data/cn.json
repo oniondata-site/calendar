@@ -1,5 +1,10 @@
 [
  {
+  "date": "20200101",
+  "is_open": 0,
+  "comment": "\u5143\u65e6"
+ },
+ {
   "date": "20200102",
   "is_open": 1,
   "comment": ""

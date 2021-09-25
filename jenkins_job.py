@@ -16,7 +16,7 @@ def run():
     os.system('git push cn_mirror')
     assert(exit_code == 0)
 
-    print('job success')
+    print('== job success ==')
     time.sleep(5)
 
 
