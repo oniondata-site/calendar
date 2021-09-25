@@ -17,8 +17,8 @@ def dict_to_object(data, obj):
 
 
 def save_to_file(obj, config_path):
-    with open(config_path, 'w', encoding='utf8') as f:
-        json.dump(obj, f, indent=True, default=class_to_dict)
+    with open(config_path, 'w') as f:
+        json.dump(obj, f, indent=True, ensure_ascii=False, default=class_to_dict)
 
 
 def load_from_file(obj, config_path):
