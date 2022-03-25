@@ -58,7 +58,8 @@ class ExchangeCalendar(Cookie):
             return CalendarQueryResult.Closed
 
 
-HEAD = {'User-Agent': 'Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166  Safari/535.19', }
+HEAD = {'User-Agent': 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Mobile Safari/537.36', 
+    'Referer': 'https://gitee.com/oniondata-site/calendar/blob/main/data/cn.json'}
 
 
 def fetch_url(url):
