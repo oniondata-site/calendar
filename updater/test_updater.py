@@ -11,8 +11,12 @@ class TestUpdater(unittest.TestCase):
     def tearDown(self):
         return
 
-    def test(self):
+    @unittest.skip('')
+    def test_update_cn_json(self):
         updater.update_cn_json()
+
+    def test_save_to_redis(self):
+        updater.save_to_redis()
 
 
 if __name__ == '__main__':

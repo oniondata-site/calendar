@@ -1,0 +1,5 @@
+{
+    "redis_server_ip": "",
+    "redis_server_port": 0,
+    "redis_server_password": ""
+}
