@@ -2,6 +2,7 @@ import requests
 import json
 from .cookie import Cookie
 from . import time_helper
+from .redis_client import create_redis_client
 
 
 class CalendarQueryResult:
@@ -19,21 +20,34 @@ class ExchangeCalendar(Cookie):
                'https://gitee.com/oniondata-site/calendar/raw/main/data/cn.json']
     }
 
-    def __init__(self, market_type, use_cn_mirror_site=False):
+    def __init__(self, market_type, *, use_redis_mirror=True, use_cn_mirror_site=False):
         super().__init__()
         self.value = self
         self.market_type = market_type
+        self.use_redis_mirror = use_redis_mirror
         self.use_cn_mirror_site = use_cn_mirror_site
         self.date_to_record = {}
 
     def load(self):
+        ''' 优先级，redis > git
+        '''
         self.date_to_record.clear()
-        if not self.use_cn_mirror_site:
-            url = self.URL[self.market_type][0]
-        else:
-            url = self.URL[self.market_type][1]
+        while True:
+            # redis
+            client = None
+            if self.use_redis_mirror:
+                client = create_redis_client()
+            if client is not None:
+                json_text = client.hget('calendar', 'cn.json')
+                break
+            # http
+            if not self.use_cn_mirror_site:
+                url = self.URL[self.market_type][0]
+            else:
+                url = self.URL[self.market_type][1]
+            json_text = fetch_url(url)
+            break
 
-        json_text = fetch_url(url)
         record_list = json.loads(json_text)
         for record in record_list:
             date = record['date']
@@ -85,6 +99,8 @@ def query_date_status(market_type, date=None, *, use_cn_mirror_site=False):
     Parameters:
         market_type - 市场类型，字符串。可选，'cn', 'hk', 'us'
         date - 日期，字符串。比如，'20200101'
+        use_redis_mirror - 是否使用 redis 镜像源。预防 github 和 gitee 同时无法访问。
+                         - 默认是，需要自行（搭建 redis => 同步数据 => 修改 config.json）才会生效。
         use_cn_mirror_site - 是否使用位于中国的镜像网站加速。强烈推荐国内网络勾选此项
 
     Returns:
