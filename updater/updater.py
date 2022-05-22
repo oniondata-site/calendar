@@ -1,9 +1,8 @@
 ''' 更新 data 目录下的 json 文件
 '''
-from redis import StrictRedis
 from .exchange_calendar import ExchangeCalendar
 from . import json_helper
-from python_api import app_config
+from python_api.redis_client import create_redis_client
 
 
 def update_cn_json():
@@ -13,17 +12,12 @@ def update_cn_json():
 
 
 def save_to_redis():
-    redis_server_ip = app_config.get('redis_server_ip')
-    redis_server_port = app_config.get('redis_server_port')
-    redis_server_password = app_config.get('redis_server_password')
-    # 没有配置，跳过
-    if not redis_server_ip or not redis_server_password:
-        return 
+    client = create_redis_client()
+    if client is None:
+        return
 
     with open('./data/cn.json', encoding='utf8') as f:
         text = f.read()
-
-    client = StrictRedis(host=redis_server_ip, port=redis_server_port, db=1, password=redis_server_password, decode_responses=True)
     client.hset('calendar', 'cn.json', text)
 
 
