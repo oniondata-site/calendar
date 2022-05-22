@@ -7,7 +7,7 @@ from updater import updater
 
 def run():
     print('== update cn json ==')
-    updater.update_cn_json()
+    updater.update()
     print('== push github ==')
     exit_code = os.system('git commit -am "Sync by robot"')
     exit_code = os.system('git push origin')
