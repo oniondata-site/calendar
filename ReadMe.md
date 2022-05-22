@@ -34,6 +34,10 @@
 
 2. 国内访问的镜像仓库: https://gitee.com/oniondata-site/calendar
 
+3. 私有的 redis 镜像。
+    - 2022-05-22，这周遭遇了 gitee 无法提供服务，而 github 访问也通畅。即两个仓库同时无法访问。为了解决问题，增加了 redis 镜像作为后备。
+    - 具体见，exchange_calendar.py 关键字 use_redis_mirror。
+
 
 ## 细节说明
 
